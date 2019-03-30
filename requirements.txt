@@ -1,0 +1,6 @@
+asstosrt==0.1.6
+chardet==3.0.4
+hanziconv==0.3.2
+pysrt==1.1.1
+moviepy-wumii==0.2.3.6.1
+#search https://www.lfd.uci.edu/~gohlke/pythonlibs/ for windows libs
